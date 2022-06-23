@@ -1,0 +1,24 @@
+[
+  {
+    "neon.horns.devil": {
+      "am_ba": "",
+      "am_in": "ca-app-pub-3204717227920759/1186801387",
+      "am_na": "ca-app-pub-3204717227920759/6724378144",
+
+      "is_id":"1533e01a1",
+
+      "ads_list": ["is", "am"]
+    },
+    "sweet.beauty.cam.toanhmsg": {
+      "al_re": "9fe0111e502b0ae3",
+      "al_in": "b22debe693ec74d1",
+      "al_ba": "a82feb6e789019c5",
+
+      "is_id":"1534ffc21",
+
+      "interval":70000,
+
+      "ads_list": ["al", "is"]
+    }
+  }
+]
