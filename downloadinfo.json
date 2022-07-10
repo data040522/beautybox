@@ -1,13 +1,12 @@
 [
   {
-    "neon.horns.devil": {
-      "am_ba": "",
-      "am_in": "ca-app-pub-3204717227920759/1186801387",
-      "am_na": "ca-app-pub-3204717227920759/6724378144",
+    "filters.pictures.beauty": {
+      "al_re": "a5230d9596861d4b",
+      "al_in": "afeadae16f5bf207",
+      "al_ba": "6fec33c4df2084d7",
+      "al_na": "c737118287fd73b5",
 
-      "is_id":"1533e01a1",
-
-      "ads_list": ["is", "am"]
+      "ads_list": ["al"]
     },
     "sweet.beauty.cam.toanhmsg": {
       "al_re": "9fe0111e502b0ae3",
