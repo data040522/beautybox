@@ -1,12 +1,16 @@
 [
   {
     "filters.pictures.beauty": {
+      "am_ba": "ca-app-pub-2618711339780818/4816823508",
+      "am_in": "ca-app-pub-2618711339780818/7022252810",
+      "am_na": "ca-app-pub-2618711339780818/5709171145",
+
       "al_re": "a5230d9596861d4b",
       "al_in": "afeadae16f5bf207",
       "al_ba": "6fec33c4df2084d7",
       "al_na": "c737118287fd73b5",
 
-      "ads_list": ["al"]
+      "ads_list": ["am"]
     },
     "sweet.beauty.cam.toanhmsg": {
       "al_re": "9fe0111e502b0ae3",
