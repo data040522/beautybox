@@ -5,16 +5,16 @@
       "am_in": "ca-app-pub-2618711339780818/7022252810",
       "am_na": "ca-app-pub-2618711339780818/5709171145",
 
-      "al_re": "",
-      "al_in": "",
-      "al_ba": "",
-      "al_na": "",
+      "al_re": "a5230d9596861d4b",
+      "al_in": "afeadae16f5bf207",
+      "al_ba": "6fec33c4df2084d7",
+      "al_na": "c737118287fd73b5",
 
       "is_id":"16386e315",
 
       "interval":30000,
 
-      "ads_list": ["is", "am"]
+      "ads_list": ["al", "is", "am"]
     },
     "make.me.bald.photo.editor.photography": {
       "am_ba": "",
