@@ -12,7 +12,7 @@
 
       "is_id":"16386e315",
 
-      "interval":30000,
+      "interval":60000,
 
       "ads_list": ["al", "is", "am"]
     },
@@ -28,7 +28,7 @@
 
       "is_id":"16698c5dd",
 
-      "interval":20000,
+      "interval":60000,
 
       "ads_list": ["is"]
     },
@@ -39,7 +39,7 @@
 
       "is_id":"1534ffc21",
 
-      "interval":70000,
+      "interval":60000,
 
       "ads_list": ["al", "is"]
     }
