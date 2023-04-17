@@ -33,9 +33,9 @@
       "ads_list": ["am", "is", "al"]
     },
     "make.me.bald.photo.editor.photography": {
-      "am_ba": "",
-      "am_in": "",
-      "am_na": "",
+      "am_ba": "ca-app-pub-4694051898425274/8632726301",
+      "am_in": "ca-app-pub-4694051898425274/4574099781",
+      "am_na": "ca-app-pub-4694051898425274/8321773104",
 
       "al_re": "",
       "al_in": "",
@@ -46,7 +46,7 @@
 
       "interval":60000,
 
-      "ads_list": ["is"]
+      "ads_list": ["am", "is"]
     },
     "sweet.beauty.cam.toanhmsg": {
       "al_re": "9fe0111e502b0ae3",
