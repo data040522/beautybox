@@ -1,9 +1,9 @@
 [
   {
     "filters.pictures.beauty": {
-      "am_ba": "ca-app-pub-3611895700562610/3439394399",
-      "am_in": "ca-app-pub-3611895700562610/7318660155",
-      "am_na": "ca-app-pub-3611895700562610/8500149385",
+      "am_ba": "ca-app-pub-6158527016809794/3211689293",
+      "am_in": "ca-app-pub-6158527016809794/7035384238",
+      "am_na": "ca-app-pub-6158527016809794/4409220897",
 
       "al_re": "a5230d9596861d4b",
       "al_in": "afeadae16f5bf207",
@@ -16,26 +16,10 @@
 
       "ads_list": ["am", "is"]
     },
-    "filters.pictures.beauty.backup": {
-      "am_ba": "ca-app-pub-3611895700562610/3439394399",
-      "am_in": "ca-app-pub-3611895700562610/7318660155",
-      "am_na": "ca-app-pub-3611895700562610/8500149385",
-
-      "al_re": "a5230d9596861d4b",
-      "al_in": "afeadae16f5bf207",
-      "al_ba": "6fec33c4df2084d7",
-      "al_na": "c737118287fd73b5",
-
-      "is_id":"16386e315",
-
-      "interval":60000,
-
-      "ads_list": ["am", "is", "al"]
-    },
     "make.me.bald.photo.editor.photography": {
-      "am_ba": "ca-app-pub-4694051898425274/8632726301",
-      "am_in": "ca-app-pub-4694051898425274/4574099781",
-      "am_na": "ca-app-pub-4694051898425274/8321773104",
+      "am_ba": "ca-app-pub-6158527016809794/5422881673",
+      "am_in": "ca-app-pub-6158527016809794/8174588979",
+      "am_na": "ca-app-pub-6158527016809794/2880516808",
 
       "al_re": "",
       "al_in": "",
