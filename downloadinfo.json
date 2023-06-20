@@ -33,9 +33,9 @@
       "ads_list": ["is", "al"]
     },
     "make.me.bald.photo.editor.photography": {
-      "am_ba": "ca-app-pub-4073890771902191/1415021730",
-      "am_in": "ca-app-pub-4073890771902191/6725335963",
-      "am_na": "ca-app-pub-4073890771902191/5412254295",
+      "am_ba": "",
+      "am_in": "",
+      "am_na": "",
 
       "al_re": "",
       "al_in": "",
@@ -46,7 +46,7 @@
 
       "interval":45000,
 
-      "ads_list": ["am", "is"]
+      "ads_list": ["is"]
     },
     "make.me.bald.photo.editor.photography.backup": {
       "am_ba": "ca-app-pub-6158527016809794/5422881673",
