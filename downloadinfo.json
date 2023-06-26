@@ -2,7 +2,7 @@
   {
     "filters.pictures.beauty": {
       "am_ba": "",
-      "am_in": "ca-app-pub-8972625079575667/9110558201",
+      "am_in": "",
       "am_na": "",
 
       "al_re": "a5230d9596861d4b",
@@ -14,7 +14,7 @@
 
       "interval":45000,
 
-      "ads_list": ["am", "is", "al"]
+      "ads_list": ["is", "al"]
     },
     "filters.pictures.beauty.backup": {
       "am_ba": "",
@@ -34,7 +34,7 @@
     },
     "make.me.bald.photo.editor.photography": {
       "am_ba": "",
-      "am_in": "ca-app-pub-8972625079575667/8480002817",
+      "am_in": "",
       "am_na": "",
 
       "al_re": "",
@@ -46,7 +46,7 @@
 
       "interval":45000,
 
-      "ads_list": ["am", "is"]
+      "ads_list": ["is"]
     },
     "make.me.bald.photo.editor.photography.backup": {
       "am_ba": "ca-app-pub-6158527016809794/5422881673",
