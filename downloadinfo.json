@@ -2,7 +2,7 @@
   {
     "filters.pictures.beauty": {
       "am_ba": "",
-      "am_in": "ca-app-pub-9181764548490210/1950092754",
+      "am_in": "",
       "am_na": "",
 
       "al_re": "a5230d9596861d4b",
@@ -14,7 +14,7 @@
 
       "interval":45000,
 
-      "ads_list": ["am", "is", "al"]
+      "ads_list": ["is", "al"]
     },
     "filters.pictures.beauty.backup": {
       "am_ba": "",
