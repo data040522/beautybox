@@ -1,8 +1,8 @@
 [
   {
-    "filters.pictures.beauty": {
+    "filters.pictures.beauty.new": {
       "am_ba": "",
-      "am_in": "ca-app-pub-6599001323732331/8389882135",
+      "am_in": "",
       "am_na": "",
 
       "al_re": "a5230d9596861d4b",
@@ -16,7 +16,7 @@
 
       "ads_list": ["am", "is", "al"]
     },
-    "filters.pictures.beauty.backup": {
+    "filters.pictures.beauty": {
       "am_ba": "",
       "am_in": "",
       "am_na": "",
@@ -32,9 +32,9 @@
 
       "ads_list": ["is", "al"]
     },
-    "make.me.bald.photo.editor.photography": {
+    "make.me.bald.photo.editor.photography.new": {
       "am_ba": "",
-      "am_in": "ca-app-pub-6599001323732331/2291377648",
+      "am_in": "",
       "am_na": "",
 
       "al_re": "",
@@ -48,7 +48,7 @@
 
       "ads_list": ["am", "is"]
     },
-    "make.me.bald.photo.editor.photography.backup": {
+    "make.me.bald.photo.editor.photography": {
       "am_ba": "",
       "am_in": "",
       "am_na": "",
