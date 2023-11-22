@@ -1,22 +1,6 @@
 [
   {
-    "filters.pictures.beauty.new": {
-      "am_ba": "",
-      "am_in": "",
-      "am_na": "",
-
-      "al_re": "a5230d9596861d4b",
-      "al_in": "afeadae16f5bf207",
-      "al_ba": "6fec33c4df2084d7",
-      "al_na": "c737118287fd73b5",
-
-      "is_id":"16386e315",
-
-      "interval":45000,
-
-      "ads_list": ["am", "is", "al"]
-    },
-    "filters.pictures.beauty": {
+    "filters.pictures.beauty.bk": {
       "am_ba": "",
       "am_in": "",
       "am_na": "",
@@ -31,6 +15,22 @@
       "interval":60000,
 
       "ads_list": ["is", "al"]
+    },
+    "filters.pictures.beauty": {
+      "am_ba": "ca-app-pub-2072952182696305/2117993928",
+      "am_in": "ca-app-pub-2072952182696305/5642305962",
+      "am_na": "ca-app-pub-2072952182696305/9605601700",
+
+      "al_re": "a5230d9596861d4b",
+      "al_in": "afeadae16f5bf207",
+      "al_ba": "6fec33c4df2084d7",
+      "al_na": "c737118287fd73b5",
+
+      "is_id":"16386e315",
+
+      "interval":45000,
+
+      "ads_list": ["am", "is", "al"]
     },
     "make.me.bald.photo.editor.photography.new": {
       "am_ba": "",
