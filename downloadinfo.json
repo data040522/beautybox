@@ -1,6 +1,6 @@
 [
   {
-    "filters.pictures.beauty.bk": {
+    "filters.pictures.beauty": {
       "am_ba": "",
       "am_in": "",
       "am_na": "",
@@ -16,7 +16,7 @@
 
       "ads_list": ["is", "al"]
     },
-    "filters.pictures.beauty": {
+    "filters.pictures.beauty.ne": {
       "am_ba": "ca-app-pub-2072952182696305/2117993928",
       "am_in": "ca-app-pub-2072952182696305/5642305962",
       "am_na": "ca-app-pub-2072952182696305/9605601700",
