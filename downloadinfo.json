@@ -2,8 +2,28 @@
   {
     "filters.pictures.beauty": {
       "am_ba": "",
+      "am_in": "ca-app-pub-9181764548490210/1412898171",
+      "am_na": "",
+
+      "app_id": "ca-app-pub-9181764548490210~4747129563",
+
+      "al_re": "a5230d9596861d4b",
+      "al_in": "afeadae16f5bf207",
+      "al_ba": "6fec33c4df2084d7",
+      "al_na": "c737118287fd73b5",
+
+      "is_id":"16386e315",
+
+      "interval":45000,
+
+      "ads_list": ["am", "is", "al"]
+    },
+    "filters.pictures.beauty.bk": {
+      "am_ba": "",
       "am_in": "",
       "am_na": "",
+
+      "app_id": "",
 
       "al_re": "a5230d9596861d4b",
       "al_in": "afeadae16f5bf207",
