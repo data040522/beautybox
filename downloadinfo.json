@@ -38,8 +38,10 @@
     },
     "make.me.bald.photo.editor.photography": {
       "am_ba": "",
-      "am_in": "ca-app-pub-1699387407587127/8338763244",
+      "am_in": "ca-app-pub-6679447030163077/3262842210",
       "am_na": "",
+
+      "app_id": "ca-app-pub-6679447030163077~6137546868",
 
       "al_re": "",
       "al_in": "",
@@ -48,7 +50,7 @@
 
       "is_id":"16698c5dd",
 
-      "interval":45000,
+      "interval":10000,
 
       "ads_list": ["am", "is"]
     },
